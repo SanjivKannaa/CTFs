@@ -1,0 +1,1 @@
+"https://ctf.sekai.team/challenges#Let%E2%80%99s-Play-Osu!Mania-34" > link.txt

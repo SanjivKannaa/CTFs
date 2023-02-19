@@ -1,0 +1,2 @@
+read $bruh
+echo $bruh
