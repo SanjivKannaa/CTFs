@@ -1,0 +1,5 @@
+hi
+Server: good
+ok
+Server: how
+quit
